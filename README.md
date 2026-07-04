@@ -1,7 +1,7 @@
-<h1 align="center">Salut, moi c'est Pierre 👨‍🍳➡️💻</h1>
+<h1 align="center">Salut, moi c'est Pierre</h1>
 
 <p align="center">
-  <em>Ex-cuisinier, aujourd'hui développeur Full Stack en formation. Je code des trucs qui marchent, sans blabla.</em>
+  <em>Ex-cuisinier, aujourd'hui développeur Full Stack en formation.</em>
 </p>
 
 <p align="center">
