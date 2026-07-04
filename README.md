@@ -54,7 +54,7 @@ Aujourd'hui je suis à **Holberton School (Toulouse)**, en Full Stack avec une b
 ### 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pierre1200&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub de Pierre" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=Pierre1200&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub de Pierre" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pierre1200&theme=radical&hide_border=true" alt="Streak GitHub de Pierre" height="165">
 </p>
 
