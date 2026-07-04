@@ -17,9 +17,7 @@
 
 41 ans, 15 ans de cuisine et de pâtisserie derrière moi, une reconversion en comptabilité au passage, et depuis peu, du code — tous les jours.
 
-Ce que la cuisine m'a appris et qui sert direct en dev : tenir un coup de feu sans paniquer, respecter une recette (= un algo) à la lettre, et bosser en équipe sans faire capoter le service.
-
-Aujourd'hui je suis à **Holberton School (Toulouse)**, en Full Stack avec une bonne dose d'IA et d'automatisation. Je code du C, du Python, du JS, je construis des pipelines multi-agents avec l'API Claude, et j'apprends vite parce que j'ai déjà appris à apprendre vite ailleurs.
+Aujourd'hui je suis à **Holberton School (Toulouse)**, en Full Stack avec une bonne dose d'IA et d'automatisation. Je code du C, du Python, du JS, je construis des pipelines multi-agents.
 
 **Je cherche une alternance à partir de novembre 2026** pour enchaîner sur le Bachelor *Full Stack Agentic*. Si un dev junior motivé et qui ne lâche rien vous intéresse, on discute.
 
