@@ -15,17 +15,18 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
   </a>
   <img src="https://img.shields.io/badge/Alternance-d%C3%A8s%20Nov.%202026-success?style=for-the-badge" alt="Recherche alternance">
+  <img src="https://img.shields.io/badge/ou%20stage-3%20mois-blue?style=for-the-badge" alt="Ouvert à un stage de 3 mois">
 </p>
 
 ---
 
 ### 🙋 Moi, en vrai
 
-41 ans, 15 ans de cuisine et de pâtisserie derrière moi, une reconversion en comptabilité au passage, et depuis peu, du code — tous les jours.
+41 ans, 15 ans de cuisine et de pâtisserie derrière moi, une reconversion en comptabilité au passage, et depuis peu, du code, tous les jours.
 
-Je termine ma formation à **Holberton School (Toulouse)** : titre professionnel *Développeur web et web mobile* (RNCP 5), présenté fin novembre 2026. Full stack, avec une bonne dose d'IA et d'automatisation — je code du Python, du TypeScript, du C, et je construis des pipelines multi-agents.
+Je termine ma formation à **Holberton School (Toulouse)** : titre professionnel *Développeur web et web mobile* (RNCP 5), présenté fin novembre 2026. Full stack, avec une bonne dose d'IA et d'automatisation. Je code du Python, du TypeScript, du C, et je construis des pipelines multi-agents.
 
-**Je cherche une alternance à partir de novembre 2026** — contrat de professionnalisation — pour enchaîner sur le Bachelor *Full Stack Agentique* (RNCP 6). À Rodez, en Aveyron ou en télétravail. Si un dev junior motivé et qui ne lâche rien vous intéresse, on discute.
+**Je cherche une alternance à partir de novembre 2026**, en contrat de professionnalisation, pour enchaîner sur le Bachelor *Full Stack Agentique* (RNCP 6). Je suis aussi disponible pour un **stage de 3 mois**. À Rodez et dans son agglomération, ou en télétravail. Si un dev junior motivé et qui ne lâche rien vous intéresse, on discute.
 
 ---
 
@@ -51,9 +52,9 @@ Je termine ma formation à **Holberton School (Toulouse)** : titre professionnel
 
 - 🍽️ **Gramme** — coût matière pour la restauration et les métiers de bouche. Lecture automatisée des factures fournisseurs, historique des prix d'achat, recalcul des coûts matière *parage et rendements compris*. Frontière stricte entre le LLM, qui extrait et rédige, et SQL, qui fait **tous** les calculs. Python, PostgreSQL, Pydantic. Issu de mes 15 ans dans le métier. *(en conception — [détails](https://pierre1200.github.io/#projets))*
 
-- 🌐 **Site vitrine et back-office pour un client** — refonte complète en Next.js : carte interactive, blog, formulaire de contact, back-office authentifié. Front en binôme avec un développeur back. Next.js 16, React 19, TypeScript, Supabase, Leaflet. *([détails](https://pierre1200.github.io/#projets))*
+- 🌐 **Studio Bougnat** — création du site et de son back-office : carte interactive des établissements du Massif central installés à Paris, blog, formulaire de contact, zone authentifiée pour que le client gère son contenu. Front en binôme avec un développeur back. Next.js 16, React 19, TypeScript, Supabase, Leaflet. *([détails](https://pierre1200.github.io/#projets))*
 
-- 🤖 **[web-crew](https://github.com/Pierre1200/web-crew)** — une brigade d'agents IA (ingestion, orchestrateur, copywriter, designer, SEO, validateur) qui génère des sites vitrines complets à partir d'un simple brief client. L'orchestrateur décide dynamiquement quels agents mobiliser, sans séquence codée en dur. Zéro token gaspillé : la validation tourne en pur Python.
+- 🤖 **[web-crew](https://github.com/Pierre1200/web-crew)** — un générateur de sites vitrines piloté par **onze agents IA** : ingestion des documents client, orchestration, direction artistique, rédaction, design, SEO, validation, critique du fond, critique visuelle du rendu, durcissement de sécurité. L'orchestrateur décide dynamiquement quels agents mobiliser. Chaque phase est rejouable seule : on ne repaie jamais une étape pour en corriger une autre. Coût suivi par modèle et affiché en euros à chaque run. **196 tests, exécutables sans clé API.**
 
 - ✋ **[LE BRAS](https://github.com/Pierre1200/hackathon-le-bras)** — un agent qui ne se contente pas de parler : il agit, mais rien ne part sans votre validation. Compatible avec n'importe quelle API au format OpenAI (Anthropic, Mistral, Groq, Ollama en local) sans modifier une ligne de code. Hackathon Full Stack Agentique, en binôme.
 
@@ -64,6 +65,6 @@ Je termine ma formation à **Holberton School (Toulouse)** : titre professionnel
 ---
 
 <p align="center">
-  <em>📩 Ouvert aux opportunités d'alternance dès novembre 2026 —<br>
+  <em>📩 Ouvert aux opportunités d'alternance dès novembre 2026<br>
   <a href="https://pierre1200.github.io/">pierre1200.github.io</a> · <a href="mailto:rouvellat.p@icloud.com">rouvellat.p@icloud.com</a></em>
 </p>
