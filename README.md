@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
   </a>
   <img src="https://img.shields.io/badge/Alternance-d%C3%A8s%20Nov.%202026-success?style=for-the-badge" alt="Recherche alternance">
-  <img src="https://img.shields.io/badge/ou%20stage-3%20mois-blue?style=for-the-badge" alt="Ouvert à un stage de 3 mois">
+  <img src="https://img.shields.io/badge/ou%20stage-jusqu'%C3%A0%203%20mois-blue?style=for-the-badge" alt="Ouvert à un stage de 3 mois">
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 Je termine ma formation à **Holberton School (Toulouse)** : titre professionnel *Développeur web et web mobile* (RNCP 5), présenté fin novembre 2026. Full stack, avec une bonne dose d'IA et d'automatisation. Je code du Python, du TypeScript, du C, et je construis des pipelines multi-agents.
 
-**Je cherche une alternance à partir de novembre 2026**, en contrat de professionnalisation, pour enchaîner sur le Bachelor *Full Stack Agentique* (RNCP 6). Je suis aussi disponible pour un **stage de 3 mois**. À Rodez et dans son agglomération, ou en télétravail. Si un dev junior motivé et qui ne lâche rien vous intéresse, on discute.
+**Je cherche une alternance à partir de novembre 2026**, en contrat de professionnalisation, pour enchaîner sur le Bachelor *Full Stack Agentique* (RNCP 6). Je suis aussi disponible pour un **stage jusqu'à 3 mois**, durée à convenir. À Rodez et dans son agglomération, ou en télétravail. Si un dev junior motivé et qui ne lâche rien vous intéresse, on discute.
 
 ---
 
