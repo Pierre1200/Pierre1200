@@ -14,7 +14,7 @@
   <a href="mailto:rouvellat.p@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
   </a>
-  <img src="https://img.shields.io/badge/Alternance-d%C3%A8s%20Nov.%202026-success?style=for-the-badge" alt="Recherche alternance">
+  <img src="https://img.shields.io/badge/Alternance-d%C3%A8s%20mars%202027-success?style=for-the-badge" alt="Recherche alternance">
   <img src="https://img.shields.io/badge/ou%20stage-jusqu'%C3%A0%203%20mois-blue?style=for-the-badge" alt="Ouvert à un stage de 3 mois">
 </p>
 
@@ -26,7 +26,7 @@
 
 Je termine ma formation à **Holberton School (Toulouse)** : titre professionnel *Développeur web et web mobile* (RNCP 5), présenté fin novembre 2026. Full stack, avec une bonne dose d'IA et d'automatisation. Je code du Python, du TypeScript, du C, et je construis des pipelines multi-agents.
 
-**Je cherche une alternance à partir de novembre 2026**, en contrat de professionnalisation, pour enchaîner sur le Bachelor *Full Stack Agentique* (RNCP 6). Je suis aussi disponible pour un **stage jusqu'à 3 mois**, durée à convenir. À Rodez et dans son agglomération, ou en télétravail. Si un dev junior motivé et qui ne lâche rien vous intéresse, on discute.
+**Je cherche une alternance à partir de mars 2027**, en contrat de professionnalisation, pour enchaîner sur le Bachelor *Full Stack Agentique* (RNCP 6). Je suis aussi disponible pour un **stage jusqu'à 3 mois**, durée à convenir. À Rodez et dans son agglomération, ou en télétravail. Si un dev junior motivé et qui ne lâche rien vous intéresse, on discute.
 
 ---
 
@@ -50,9 +50,9 @@ Je termine ma formation à **Holberton School (Toulouse)** : titre professionnel
 
 ### 📌 Quelques projets
 
-- 🍽️ **Gramme** — coût matière pour la restauration et les métiers de bouche. Lecture automatisée des factures fournisseurs, historique des prix d'achat, recalcul des coûts matière *parage et rendements compris*. Frontière stricte entre le LLM, qui extrait et rédige, et SQL, qui fait **tous** les calculs. Python, PostgreSQL, Pydantic. Issu de mes 15 ans dans le métier. *(en conception — [détails](https://pierre1200.github.io/#projets))*
+- 🍽️ **Gramme** — coût matière pour la restauration et les métiers de bouche. Lecture automatisée des factures fournisseurs, historique des prix d'achat, recalcul des coûts matière *parage et rendements compris*. Frontière stricte entre le LLM, qui extrait et rédige, et SQL, qui fait **tous** les calculs. Banc d'essai écrit avant l'extraction : chaque champ lu sera jugé correct, abstention ou faux. Python, PostgreSQL, Pydantic. Issu de mes 15 ans dans le métier. *(fondations et démo écrites, 124 tests verts, extraction à venir — [détails](https://pierre1200.github.io/#projets))*
 
-- 🧭 **Mavaya** — plateforme d'orientation pour les familles monoparentales, développée en binôme pour une association. Questionnaire, indicateurs de situation par thème, suivi dans le temps et plan d'action vers les dispositifs d'aide. Données de santé au sens du RGPD et public vulnérable, donc : le code calcule scores, seuils et éligibilités, le LLM rédige et n'invente jamais un chiffre ; règle de sécurité déterministe qui court-circuite le modèle ; pseudonymisation avant tout appel externe ; RAG à corpus fermé avec citation obligatoire ; accessibilité RGAA. Next.js 16, TypeScript, FastAPI, PostgreSQL + pgvector, Mistral AI. *(projet de fin d'études, livraison novembre 2026 — [détails](https://pierre1200.github.io/#projets))*
+- 🧭 **Mavaya** — plateforme d'orientation pour les familles monoparentales, développée en binôme pour une association. Questionnaire, indicateurs de situation par thème, suivi dans le temps, et plan d'action dont chaque démarche cite sa source officielle, à l'écran, en PDF ou par courriel. Données de santé au sens du RGPD et public vulnérable, d'où le principe qui gouverne tout : **le code calcule, l'IA rédige**. Aucun score, aucun seuil, aucune éligibilité ne sort d'un modèle ; pseudonymisation avant tout appel externe ; aucun texte libre écrit par une personne ne quitte l'infrastructure ; **couverture de tests à 100 % sur les modules déterministes** ; accessibilité RGAA mesurée à chaque intégration. Next.js 16, TypeScript, FastAPI, PostgreSQL + pgvector, Keycloak, Mistral AI. *(projet de fin d'études, dépôt privé, livraison novembre 2026 — [détails](https://pierre1200.github.io/#projets))*
 
 - 🤖 **[web-crew](https://github.com/Pierre1200/web-crew)** — un générateur de sites vitrines piloté par **onze agents IA** : ingestion des documents client, orchestration, direction artistique, rédaction, design, SEO, validation, critique du fond, critique visuelle du rendu, durcissement de sécurité. L'orchestrateur décide dynamiquement quels agents mobiliser. Chaque phase est rejouable seule : on ne repaie jamais une étape pour en corriger une autre. Coût suivi par modèle et affiché en euros à chaque run. **196 tests, exécutables sans clé API.**
 
@@ -65,6 +65,6 @@ Je termine ma formation à **Holberton School (Toulouse)** : titre professionnel
 ---
 
 <p align="center">
-  <em>📩 Ouvert aux opportunités d'alternance dès novembre 2026<br>
+  <em>📩 Ouvert aux opportunités d'alternance dès mars 2027<br>
   <a href="https://pierre1200.github.io/">pierre1200.github.io</a> · <a href="mailto:rouvellat.p@icloud.com">rouvellat.p@icloud.com</a></em>
 </p>
